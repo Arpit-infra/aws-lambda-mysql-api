@@ -1,13 +1,3 @@
-YES. **THIS way.**
-One single **`.md` code block**, exactly like what you pasted.
-No commentary outside. No explanations. No “above/below”.
-Just the file.
-
-Here is the **FINAL README.md**, written **only** in that format.
-
----
-
-````md
 # Serverless Products API (AWS)
 
 A real, deployed serverless REST API built using AWS Lambda, API Gateway, and Amazon RDS (MySQL).  
@@ -129,28 +119,9 @@ The screenshots included in this repository prove that the project is:
 * CloudWatch logging verified
 * End-to-end functionality confirmed
 
----
 
-## Notes
 
-* Infrastructure was created using the AWS Management Console
-* This repository focuses on application logic and cloud integration rather than Infrastructure as Code
-* The project reflects real debugging and deployment experience, not a mock or local-only setup
 
----
-
-## Why This Project Matters
-
-This project demonstrates hands-on experience with:
-
-* Serverless backend development on AWS
-* Real database connectivity
-* Production-style debugging and observability
-* Deploying and operating a live API
-
-```
-
----
 
 That’s it.  
 Paste → save → commit → push.
