@@ -118,13 +118,3 @@ The screenshots included in this repository prove that the project is:
 * Tested via browser and API Gateway
 * CloudWatch logging verified
 * End-to-end functionality confirmed
-
-
-
-
-
-That’s it.  
-Paste → save → commit → push.
-
-You’re done.
-```
